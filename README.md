@@ -1,13 +1,9 @@
-# get into project folder
+# GraphQL API using ApolloServer
 
-cd graphql-apollo-api-part1
+- install dependencies
+npm install
 
-# install dependencies
-
- npm install
-
-# Run local dev server
-
+- Run local dev server
 npm run dev
 
 
